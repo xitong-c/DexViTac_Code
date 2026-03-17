@@ -1,5 +1,6 @@
 # DexViTac_Code
-<img width="1352" height="719" alt="image3" src="https://github.com/user-attachments/assets/d7ae643e-9480-4c9f-94be-1a6afeff81f5" />
+
+<img width="13760" height="4825" alt="figure1_01" src="https://github.com/user-attachments/assets/98112848-833a-41d6-818a-6101de0c351e" />
 
 ## Abstract
 
