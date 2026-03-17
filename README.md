@@ -1,6 +1,13 @@
 # DexViTac_Code
 
+
+
+This is the official codebase for DexViTac.The complete codebase will be released in the near future.
+
 <img width="13760" height="4825" alt="figure1_01" src="https://github.com/user-attachments/assets/98112848-833a-41d6-818a-6101de0c351e" />
+**Overview of DexViTac.** DexViTac is a portable, human-centric data collection system designed for contact-rich dexterous
+manipulation. It enables the high-fidelity acquisition of first-person vision, high-density tactile sensing, and hand kinematics within
+unstructured, in-the-wild environments, facilitating the development of generalized robotic policies across diverse hardware platforms.
 
 ## Abstract
 
